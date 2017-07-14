@@ -1,16 +1,19 @@
 # Get Started
 
-수강생들을 위한 자료 목록입니다.
-
+수강생들을 위한 자료 목록입니다.<br>
 원하는 자료를 선택하여 이용하세요.
 
 ## Level 1
 
 기초 학습을 위한 자료로, `HTML`, `CSS`를 이용하여 화면을 구성할 수 있습니다.
 
-### [기초반 프로젝트 구조](https://github.com/HeropCode/Public-Basic)
+### [Lv1 프로젝트 구조](https://github.com/HeropCode/Public-Basic)
 
-### [Box Layouts](https://github.com/HeropCode/Box-Layouts)
+Lv1 기초반 실습을 위해서 **다운로드** 받으세요.
+
+### [박스 레이아웃](https://github.com/HeropCode/Box-Layouts)
+
+박스 형태의 레이아웃을 연습하세요.
 
 ### [IBK 기업은행](https://github.com/HeropCode/IBK-IndustrialBank)
 
@@ -19,6 +22,8 @@
 `HTML`, `CSS`를 더욱 심화 학습하고, `jQuery`위주의 `JavaScript`를 학습합니다.
 
 ### [HTML5 Boiler Plate](https://github.com/HeropCode/Public-Advanced)
+
+Lv2 중급반 실습을 위해서 **다운로드** 받으세요.
 
 ### Fixed, Responsive, Mobile Web
 
