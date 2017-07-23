@@ -35,7 +35,7 @@ Lv2 중급반 실습을 위해서 **다운로드** 받으세요.
 
 `Responsive`
 
-### [STARBUCKS](https://heropcode.github.io/Starbucks/)
+### [Starbucks](https://github.com/HeropCode/Starbucks)
 
 ## jQuery
 
