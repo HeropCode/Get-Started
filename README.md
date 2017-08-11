@@ -9,7 +9,7 @@
 
 ### [Lv1 프로젝트 구조](https://github.com/HeropCode/Public-Basic)
 
-Lv1 기초반 실습을 위해서 **다운로드** 받으세요.
+Lv1 기초 실습을 위해서 **[다운로드](https://github.com/HeropCode/Public-Basic)** 받으세요.
 
 ## Examples
 
@@ -18,6 +18,8 @@ Lv1 기초반 실습을 위해서 **다운로드** 받으세요.
 박스 형태의 레이아웃을 연습하세요.
 
 ### [IBK 기업은행](https://github.com/HeropCode/IBK-IndustrialBank)
+
+다양한 기법과 레이아웃, 문자, 이미지 등을 활용하여 하나의 페이지를 완성합니다.
 
 ## HTML
 
@@ -37,11 +39,11 @@ Lv1 기초반 실습을 위해서 **다운로드** 받으세요.
 
 # Level 2
 
-`HTML`, `CSS`를 더욱 심화 학습하고, `jQuery`위주의 `JavaScript`를 학습합니다.
+HTML, CSS 를 더욱 심화 학습하고, 자바스크립트와 제이쿼리 라이브러리를 학습합니다.
 
 ### [HTML5 Boiler Plate](https://github.com/HeropCode/Public-Advanced)
 
-Lv2 중급반 실습을 위해서 **다운로드** 받으세요.
+Lv2 중급 실습을 위해서 **[다운로드](https://github.com/HeropCode/Public-Advanced)** 받으세요.
 
 ## Examples
 
@@ -49,13 +51,23 @@ Lv2 중급반 실습을 위해서 **다운로드** 받으세요.
 
 `Fixed` `Responsive` `Mobile`
 
+일반적인 고정형 사이트 구조와 모바일, 반응형 페이지의 차이점을 이해하세요.
+
 ### [GitHub](https://github.com/HeropCode/GitHub-Responsive)
 
 `Responsive`
 
+더 자세하게 반응형 페이지를 학습합니다.
+
 ### [Starbucks](https://github.com/HeropCode/Starbucks)
 
+자바스크립트를 적용하여 완성합니다.<br>
+다양한 기법과 플러그인 활용법을 포함합니다.
+
 ## jQuery
+
+자바스크립트를 더 편리하게 사용하기 위해서 '제이쿼리' 라이브러리를 활용합니다.<br>
+제이쿼리를 배우기 위한 기본적인 자바스크립트 이론을 (선행)학습합니다. 
 
 ### [JavaScript for jQuery, 선행학습](https://parkyoungwoong.github.io/setPresentation/presentations/level2/jquery/prior_learning)
 
@@ -91,9 +103,11 @@ Lv2 중급반 실습을 위해서 **다운로드** 받으세요.
 
 ## JavaScript
 
+자바스크립트의 풍부한 활용을 위해 더 많은 기능(기법)들을 학습합니다.
+
 ### [구문(Statements)](https://parkyoungwoong.github.io/setPresentation/presentations/level2/javascript/statements)
 
-`if` `else` `switch` `for` `while` `case` `default` `break` `continue`
+`if` `조건부(3항) 연산자` `else` `switch` `for` `while` `case` `default` `break` `continue`
 
 ### [함수(Function)](https://parkyoungwoong.github.io/setPresentation/presentations/level2/javascript/function)
 
