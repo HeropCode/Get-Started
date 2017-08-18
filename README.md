@@ -66,7 +66,7 @@ Lv2 중급 실습을 위해서 **[다운로드](https://github.com/HeropCode/Pub
 
 ## CSS
 
-### [CSS +](https://parkyoungwoong.github.io/setPresentation/presentations/level2/css3)
+### [CSS ++](https://parkyoungwoong.github.io/setPresentation/presentations/level2/css3)
 
 `at-rules` `@charset` `@import` `@font-face` `@media` `@keyframes` `animation` `animation-name` `animation-duration` `animation-timing-function` `animation-delay` `animation-iteration-count` `animation-direction` `animation-fill-mode` `animation-play-state` `tansition` `transition-property` `transition-duration` `transition-timing-function` `transition-delay` `transform` `translate` `scale` `rotate` `skew` `matrix` `transform-origin` `transform-style` `perspective` `perspective-origin` `backface-visibility` `flex` `flex-flow` `flex-direction` `flex-wrap` `justify-content` `align-content` `align-items` `order` `flex-grow` `flex-shrink` `flex-basis` `align-self` `columns` `column-width` `column-count` `column-rule` `column-rule-width` `column-rule-style` `column-rule-color` `column-gap`
 
